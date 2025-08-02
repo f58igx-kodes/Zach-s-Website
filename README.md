@@ -1,5 +1,4 @@
 # Zach-s-Website
----
 
 This is a styled and improved version of the minimalistic website inspired by [zachlatta.com](https://zachlatta.com).
 
