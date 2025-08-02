@@ -19,6 +19,6 @@ The original site was intentionally simple with no CSS. For the Summer of Making
 * Open `index.html` in your browser to see the styled website.
 * Modify the HTML or CSS files to customize the look and content further.
 
-* ##### Or
+* #### Or
 
 * Visit https://f58igx-kodes.github.io/Zach-s-Website/ for a demo.
