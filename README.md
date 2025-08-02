@@ -15,10 +15,10 @@ The original site was intentionally simple with no CSS. For the Summer of Making
 
 ## How to Use
 
-1. Clone or download the repository.
-2. Open `index.html` in your browser to see the styled website.
-3. Modify the HTML or CSS files to customize the look and content further.
+* Clone or download the repository.
+* Open `index.html` in your browser to see the styled website.
+* Modify the HTML or CSS files to customize the look and content further.
 
-### Or
+* ##### Or
 
-1. Visit https://f58igx-kodes.github.io/Zach-s-Website/ for a demo.
+* Visit https://f58igx-kodes.github.io/Zach-s-Website/ for a demo.
